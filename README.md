@@ -1,2 +1,2 @@
-# CLIPCEIL
-Implementation of CLIPCEIL: Boosting Domain Generalization for CLIP by Channel rEfinement and Image-text aLignment in Neurips-24
+# CLIPCEIL (Neurips 2024)
+CLIPCEIL: Boosting Domain Generalization for CLIP by Channel rEfinement and Image-text aLignment
