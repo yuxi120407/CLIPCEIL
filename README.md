@@ -3,7 +3,7 @@ CLIPCEIL: Boosting Domain Generalization for CLIP by Channel rEfinement and Imag
 <p align="center">
 <img src=".\figs\overview.png" height = "320" alt="" align=center />
 <br><br>
-<b>Figure 1.</b> Overview of CLIPood.
+<b>Figure 1.</b> Overview of CLIPCEIL.
 </p>
 
 ## Get Started
