@@ -8,7 +8,7 @@ CLIPCEIL: Boosting Domain Generalization for CLIP by Channel rEfinement and Imag
 
 ## Get Started
 
-1.Environment Installation
+1. Environment Installation
 
 Clone the repository locally:
 
