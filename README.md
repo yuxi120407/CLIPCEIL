@@ -20,3 +20,15 @@ Install the required packages:
 ```
 pip install -r requirements.txt
 ```
+2. Prepare Data. Our datasets are built over [DomainBed](https://github.com/facebookresearch/DomainBed) For usage, one should clone the above repositorie, then download data following the instructions, and arrange the folder as:
+```plain
+|-- DomainBed/
+    |-- domainbed/
+        |-- data/
+            |-- domain_net/
+            |-- office_home/
+            |-- ...  # other DomainBed datasets
+        |-- ...
+    |-- ...
+|-- ...
+```
