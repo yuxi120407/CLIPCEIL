@@ -5,3 +5,6 @@ CLIPCEIL: Boosting Domain Generalization for CLIP by Channel rEfinement and Imag
 <br><br>
 <b>Figure 1.</b> Overview of CLIPood.
 </p>
+
+## Get Started
+1.
