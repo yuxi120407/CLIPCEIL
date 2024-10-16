@@ -7,12 +7,13 @@ CLIPCEIL: Boosting Domain Generalization for CLIP by Channel rEfinement and Imag
 </p>
 
 ## Get Started
+
 1.Environment Installation
 
 Clone the repository locally:
 
 ```
-git clone https://github.com/CASIA-IVA-Lab/AnomalyGPT.git 
+https://github.com/yuxi120407/CLIPCEIL.git
 ```
 
 Install the required packages:
